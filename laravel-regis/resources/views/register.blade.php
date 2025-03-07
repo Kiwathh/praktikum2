@@ -4,7 +4,7 @@
    <title>Form Registrasi</title>
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <!-- Tambahkan link ke CSS atau JS jika diperlukan -->
-   <link href="https://cdn.jsdelivr.net/npm/ bootstrap@5.3.2/dist/ css/bootstrap.min.css" rel="stylesheet" >
+   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" >
 </head>
 </head>
 <body>
@@ -49,7 +49,7 @@
       </form>
    </div>
    
-   <script src="https://cdn.jsdelivr.net/npm/ bootstrap@5.3.2/dist/js/ bootstrap.bundle.min.js" ></script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" ></script>
    <script>
       document.getElementById('setuju').onchange = function() {
             document.getElementById('daftarBtn').disabled = !this.checked;
